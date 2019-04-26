@@ -25,14 +25,14 @@
     font-size: 20px;
     font-weight: 500;
     line-height: 22px;
-    width: 489px;
+    width: 572px;
     text-align: left;
 }
 
 #headleft {
     /* border: solid 1px;*/
     width: 750px;
-    margin: 191px 13px 223px 400px;
+    margin: 191px 110px 223px 245px;
 }
 
 #headryt {
@@ -104,7 +104,7 @@
     width: 1267px;
     height: 409px;
     /*border: 1px solid;*/
-    margin: 20px 121px 372px 290px;
+    margin: 20px 121px 372px 133px;
 }
 
 #p1 {

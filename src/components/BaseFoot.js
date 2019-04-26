@@ -22,7 +22,7 @@ const BaseFoot = () => {
                 <button className="footer-button button-cta cta-text">Primary CTA</button>
             </div>
 
-            <div>
+            <div id="bag">
                 <img src={Group4} alt="bag" className="Group4" />
             </div>
         </div>
