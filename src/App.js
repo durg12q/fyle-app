@@ -21,7 +21,7 @@ function App() {
                 <div id="headryt"><Header /></div></div>
 
             <div>
-                <div id="ibody"><p id="p1"><h3> This is a heading in <br /> two lines.</h3></p>
+                <div id="ibody"><p id="p1"> This is a heading in <br /> two lines.</p>
                     <Ubody /></div>
                
                 <div id="ubody"><Main /> </div>
