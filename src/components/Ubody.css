@@ -1,0 +1,64 @@
+﻿#img1 {
+    margin: -8px 67px 45px 245px;
+}
+#img2 {
+    max-height: 400px;
+    max-width: 400px;
+    width: 319px;
+    height: 400px;
+}
+.carousel-head {
+    fill: white;
+    margin-left: 300px;
+}
+
+.carousel {
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+}
+
+.carousel-image {
+    height: 400px;
+    border-radius: 50%;
+}
+
+.carousel-image2 {
+    height: 400px;
+    border-radius: 50%;
+}
+
+.customer-text {
+    display: flex;
+    flex-direction: column;
+    margin: 100px 0px 0px 40px;
+    background: none;
+    color: #8B8E91;
+    font-family: "aktiv-grotesk-std",sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    font-style: italic;
+    text-align: left;
+}
+
+.customer-name {
+    margin: 40px 0px 0px 0px;
+    color: #31373D;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 34px;
+    text-align: left;
+}
+
+.customer-company {
+    color: #31373D;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 34px;
+    text-align: left;
+}
+#footer {
+margin-bottom:70px;
+}

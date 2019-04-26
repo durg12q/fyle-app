@@ -1,0 +1,148 @@
+﻿.left-div {
+    float: left;
+    justify-content: flex-start;
+}
+
+.looking-for-a-lollip {
+    color: #31373D;
+    font-family: "aktiv-grotesk-std",sans-serif;
+    font-style: normal;
+    font-size: 50px;
+    font-weight: 600;
+    line-height: 4px;
+    width: 489px;
+    text-align: left;
+    margin: 166px 0px 0px 220px;
+}
+
+.body {
+    color: #31373D;
+    font-family: "aktiv-grotesk-std",sans-serif;
+    font-style: normal;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+    width: 476px;
+    text-align: left;
+}
+
+.button-cta {
+    background-color: #0099FF !important;
+    color: white !important;
+    border-radius: 3px;
+    width: 220px;
+    height: 48px;
+    cursor: pointer;
+}
+
+.cta-text {
+    color: #FFFFFF;
+    font-family: "aktiv-grotesk-std",sans-serif;
+    ;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    text-align: center;
+}
+
+.outline-button {
+    border: 2px solid #0099FF;
+    border-radius: 3px;
+    width: 222px;
+    height: 48px;
+    color: #31373D;
+    cursor: pointer;
+    margin-left: 16px;
+}
+
+.ref-image {
+    margin: 150px 251px 0px 180px;
+    height: 331px;
+    width: 281px;
+}
+
+.mid-div {
+    position: absolute;
+}
+
+.bg {
+    margin: 182px 0px 0px 87px;
+    width: 1267px;
+    height: 409px;
+    z-index: -1;
+}
+
+.pricing-chart {
+    position: relative;
+    top: 200px
+}
+
+.this-is-a-heading-i {
+    color: #31373D;
+    font-family: "aktiv-grotesk-std",sans-serif;
+    position: absolute;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 34px;
+    text-align: center;
+    margin-left: 612px;
+    width: 250px;
+    z-index: 1;
+}
+
+.rectangle {
+    margin-top: 130px;
+    width: 698px;
+    height: 513px;
+    margin-left: 371px;
+    z-index: 1;
+}
+
+.rectangle-copy-8 {
+    background-color: #F9F9F9;
+    border-radius: 5px;
+    width: 289px;
+    height: 479px;
+}
+
+.compare-pricing-today {
+    color: #31373D;
+    font-family: "aktiv-grotesk-std",sans-serif;
+    margin-top: 250px;
+    font-size: 24px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.text-link {
+    color: #0099FF
+}
+
+.lorem-ipsum-is-simple {
+    color: #8B8E91;
+    font-family: "aktiv-grotesk-std",sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    width: 470px;
+    text-align: center;
+    margin-left: 710px;
+}
+
+.no-of-users {
+    margin: 20px 0px 30px 600px;
+    width: 710px;
+}
+
+.price-list-card {
+    margin: 20px 0px 30px 40px;
+}
+
+.customer-feed-header {
+    color: #31373D;
+    margin-top: 150px;
+    font-family: "aktiv-grotesk-std",sans-serif;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 34px;
+}

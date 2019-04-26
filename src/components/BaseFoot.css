@@ -1,0 +1,38 @@
+﻿.footer {
+    display: flex;
+    flex-direction: row;
+}
+
+.loved-by-users-reco-copy-2 {
+    color: #31373D;
+    margin-top: 180px;
+    margin-left: 500px;
+    font-family: "aktiv-grotesk-std",sans-serif;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 34px;
+    text-align: left;
+    width: 407px;
+}
+
+.lorem-ipsum-is-simpl {
+    color: #8B8E91;
+    margin-left: 500px;
+    font-family: "aktiv-grotesk-std",sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+    width: 387px;
+    text-align: left;
+}
+
+.Group4 {
+    margin-top: 57px;
+    margin-left: 200px;
+    height: 440px;
+    width: 365px;
+}
+
+.footer-button {
+    margin: 40px 0px 0px 300px;
+}

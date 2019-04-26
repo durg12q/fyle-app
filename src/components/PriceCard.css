@@ -1,0 +1,70 @@
+﻿.price-card {
+    width: 250px;
+    height: 200px;
+    display: inline-block;
+    background-color: #FFFFFF;
+    box-shadow: 2px 2px 8px 0 rgba(113, 100, 100, 0.3);
+    position: absolutes;
+}
+
+.company-name {
+    color: #31373D;
+    position: relative;
+    top: 41px;
+    left: 44px;
+    font-family: "aktiv-grotesk-std",sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.company-price {
+    color: #3D3C31;
+    position: relative;
+    top: 41px;
+    left: 44px;
+    font-family: "aktiv-grotesk-std",sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    text-align: left;
+}
+
+.price-period {
+    font-style: italic;
+    color: #8B8E91;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.company-employee-numbers {
+    color: #8B8E91;
+    position: relative;
+    top: 8px;
+    left: 44px;
+    font-family: "aktiv-grotesk-std",sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    text-align: left;
+}
+
+.savings-card {
+    position: relative;
+    height: 230px;
+    box-shadow: 0 8px 19px 0 rgba(0, 0, 0, 0.16);
+    width: 214px;
+    top: 11px;
+    left: 0px;
+}
+
+.savings-card-info {
+    left: 20px;
+    width: 140px
+}
+
+.savings-price {
+    color: #0099FF;
+}
+
+.savings-card-period {
+    margin-left: 20px;
+    width: 140px
+}

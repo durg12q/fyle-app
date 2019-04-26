@@ -1,0 +1,145 @@
+
+#ap1 {
+    font-family: sans-serif;
+    text-align: center;
+    display: inline-flex;
+    width: 100%;
+      /*border: solid;*/
+    height: 550px;
+}
+
+#text1 {
+    color: #31373d;
+    font-family: AktivGrotesk;
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 58px;
+    width: 489px;
+    text-align: left;
+    margin: -24px -24px 23px 1px;
+}
+
+#text2 {
+    color: #31373d;
+    font-family: AktivGrotesk;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 22px;
+    width: 489px;
+    text-align: left;
+}
+
+#headleft {
+    /* border: solid 1px;*/
+    width: 750px;
+    margin: 191px 13px 223px 400px;
+}
+
+#headryt {
+    /*border: solid 1px;*/
+    width: 750px;
+    margin: 128px 348px 24px 0px;
+}
+
+.button-cta {
+    background-color: #0099FF !important;
+    color: white !important;
+    border-radius: 5px;
+    width: 220px;
+    height: 48px;
+    cursor: pointer;
+}
+
+.cta-text {
+    color: #FFFFFF;
+    font-family: "aktiv-grotesk-std",sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    text-align: center;
+    margin-left: -118px;
+}
+
+.outline-button {
+    border: 2px solid #0099FF;
+    border-radius: 5px;
+    width: 222px;
+    height: 48px;
+    color: #31373D;
+    cursor: pointer;
+    margin-left: 16px;
+    background-color: #ffffff;
+}
+.button-cta:hover {
+    background-color: #0099FF !important;
+    color: white !important;
+    border-radius: 1px;
+    width: 220px;
+    height: 48px;
+    cursor: pointer;
+}
+.outline-button:hover{
+    border: 1px solid #0099FF;
+    border-radius: 1px;
+    width: 222px;
+    height: 48px;
+    color: #31373D;
+    cursor: pointer;
+    margin-left: 16px;
+    background-color: #ffffff;
+}
+
+
+#button:hover {
+    background-color: #7094db;
+    border-radius: 3px;
+    display: inline-flex;
+    width: 160px;
+    height: 42px;
+    padding: 4px 0px 9px 44px;
+}
+
+#ibody {
+    background-image: url(https://marvel-live.freetls.fastly.net/canvas/2019/4/8857688516664c668a548c652cc37436?quality=95&fake=.png);
+    width: 1267px;
+    height: 409px;
+    /*border: 1px solid;*/
+    margin: 20px 121px 372px 290px;
+}
+
+#p1 {
+    color: #31373d;
+    font-family: AktivGrotesk;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 34px;
+    text-align: center;
+    padding: 15px 0px 0px 0px;
+}
+
+#ubody {
+    text-align: center;
+    position:center;
+}
+.card {
+    border-right: 1px solid #ECEAEA;
+    border-bottom: 1px solid #ECEAEA;
+    display: inline-block;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.26);
+    width: 140px;
+    height: 46px;
+    cursor: pointer;
+}
+
+.active {
+    border: 5px solid #0099FF;
+}
+
+.card-info {
+    font-family: "aktiv-grotesk-std",sans-serif;
+    font-style: normal;
+    font-size: 18px;
+    font-weight: 700;
+    vertical-align: middle;
+    text-align: center;
+}
